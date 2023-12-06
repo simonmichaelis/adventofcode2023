@@ -1,0 +1,16 @@
+Time:      7  15   30
+Distance:  9  40  200
+
+
+d = Distance
+t = Max time
+x = hold down time
+
+d = (t - x) * x
+
+
+
+
+
+
+
